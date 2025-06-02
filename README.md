@@ -1,5 +1,7 @@
 This version adds additional screens and customized options for you to edit. To make using this keyboard a little easier. 
 I have an overview of the features added: https://youtu.be/HxzRtdL4Aac 
+
+Welcome to ProgrammerKeys Mod, where I’ve taken the original ProgrammerKeys repo and supercharged it with AI-powered features, for productivity hacks!
  
  * 1. The code is structured to handle different option sets, allowing users to
  * switch between different configurations and display relevant information
